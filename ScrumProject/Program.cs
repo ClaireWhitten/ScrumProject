@@ -7,6 +7,8 @@ namespace ScrumProject
         static void Main(string[] args)
         {
             Console.WriteLine("Databank tabellen opstellen voor rechten");
+
+            Console.WriteLine("Tom= Databank tabellen opstellen voor roles");
         }
     }
 }
